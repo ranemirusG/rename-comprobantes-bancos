@@ -1,8 +1,12 @@
 # Renombrar el comprobante de transferencias según su contenido.
 
 Ejemplo
-Al descargar el comprobante el nombre del archivo en el mejor de los casos puede ser algo así: "TransferenciaTercero-[numeroDNIemisor]\_[fecha].pdf", en el peor algo más genérico como "comprobante.pdf", "download.pdf", etc.
+Al descargar el comprobante el nombre del archivo en el mejor de los casos puede ser algo así:
+
+"TransferenciaTercero-[numeroDNIemisor]\_[fecha].pdf", en el peor algo más genérico como "comprobante.pdf", "download.pdf", etc.
+
 Con estos scripts el nombre pasará a ser:
+
 [nombre destinatario]\_[fecha]\_[$importe].pdf
 
 Tener en cuenta que dependiendo si se es beneficiario u originante de la
