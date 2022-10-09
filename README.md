@@ -15,12 +15,12 @@ La idea de este repositorio es incluir a todos los bancos argentinos, para subsa
 
 ## Bancos:
 
-Banco Ciudad
-Banco Galicia
-Banco Nacion
-Banco Provincia de Buenos Aires
-HSBC
-Supervielle
+* Banco Ciudad
+* Banco Galicia
+* Banco Nacion
+* Banco Provincia de Buenos Aires
+* HSBC
+* Supervielle
 
 ## Uso:
 
