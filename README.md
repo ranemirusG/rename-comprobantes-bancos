@@ -5,7 +5,7 @@ Al descargar el comprobante el nombre del archivo en el mejor de los casos puede
 
 "TransferenciaTercero-[numeroDNIemisor]\_[fecha].pdf", en el peor algo más genérico como "comprobante.pdf", "download.pdf", etc.
 
-Con estos scripts el nombre pasará a ser:
+Con estos scripts el nombre pasará a ser algo asi:
 
 [nombre destinatario]\_[fecha]\_[$importe].pdf
 
